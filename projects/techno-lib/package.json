@@ -1,9 +1,13 @@
 {
-  "name": "techno-lib",
+  "name": "@techwalter/technocomponent",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^9.0.7",
     "@angular/core": "^9.0.7",
     "tslib": "^1.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/techwalter/TechnoComponent.git"
   }
 }
